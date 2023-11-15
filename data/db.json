@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "rating": 1000,
+      "name": "vgfreddy"
+    },
+    {
+      "id": 2,
+      "rating": 1000,
+      "name": "dddddddddd"
+    },
+    {
+      "id": 3,
+      "rating": 1000,
+      "name": "aaaaaaaaaaaa"
+    },
+    {
+      "id": 4,
+      "rating": 1000,
+      "name": "2111111"
+    },
+    {
+      "id": 5,
+      "rating": 1000,
+      "name": "212121212121"
+    },
+    {
+      "id": 6,
+      "rating": 1000,
+      "name": "212121212121"
+    }
+  ]
+}
